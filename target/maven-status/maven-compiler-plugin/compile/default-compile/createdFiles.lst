@@ -1,0 +1,10 @@
+dao\ActivistaDAO.class
+chavez\alma\activistasjpa\ActivistasJPA.class
+datos\Activista.class
+datos\Direccion.class
+dao\ClienteDAO.class
+datos\Telefono.class
+datos\Cliente.class
+datos\Problema.class
+datos\ActivistasProblema.class
+dao\ProblemaDAO.class
